@@ -40,6 +40,8 @@ This reminds me. Before Agile, most projects were late, and now, not so much. So
 
 Oh crap, I’m late for Scrum. Bye, amigos! And now, I’m “done done done.”
 
+[Essential Software Development Career + Technical Guide](https://www.amazon.com/dp/B0BXHYWMDP/?maas=maas_adg_5AE42D34DC0E6655841248931A7A1A7E_afap_abs&ref_=aa_maas&tag=maas)
+
 (Don’t be late for Zombie scrum 🙂 )
 
 ![](https://github.com/DavesApps/EssentialSoftwareDevelopmentCareer-TechnicalGuide/blob/main/AgileBodySnatchers/ZombieScrum.png "Zombie Scrum")
