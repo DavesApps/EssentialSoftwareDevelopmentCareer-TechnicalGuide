@@ -51,3 +51,4 @@ Oh crap, I’m late for Scrum. Bye, amigos! And now, I’m “done done done.”
 
 
 
+(c)opyright Appjungle.net LLC 2023 From the book Essential Software Development Career + Technical Guide
