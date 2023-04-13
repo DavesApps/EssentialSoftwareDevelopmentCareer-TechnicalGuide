@@ -1,4 +1,4 @@
-![](https://github.com/DavesApps/EssentialSoftwareDevelopmentCareer-TechnicalGuide/blob/main/AgileBodySnatchers/AgileInvasionOfTheBody1.jpg "Agile Body Snatchers")
+![](https://github.com/DavesApps/EssentialSoftwareDevelopmentCareer-TechnicalGuide/blob/main/AgileBodySnatchers/AgileInvasionOfTheBody1.png "Agile Body Snatchers")
 
 Agile reminds me of an old movie called Invasion of the Body Snatchers, where people were replaced with aliens that looked just like them.
 
