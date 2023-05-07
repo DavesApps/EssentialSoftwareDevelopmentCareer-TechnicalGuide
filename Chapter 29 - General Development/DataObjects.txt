@@ -1,0 +1,22 @@
+DataObject do=new DataObject();
+
+do["IsBegin"]=(bool)true;
+do["IsEnd"]=(bool)false;
+
+do["NumberOfCars"]=(double)1000000;
+do["NumberOfBoats"]=(double)2000000;
+
+// IsBegin changes from 1(true) to string "true"// IsEnd changes from 0(false) to string "false"
+TranslateBooleansToStrings(do);  
+
+// NumberOfCars changes from 1000000 to "1,000,000"
+//NumberOfBoats changes from 2000000 to "2,000,000"
+FormatIntegers(do);
+
+Imagine if you had a class that could chain those calls together for you:
+
+Processor processor=new Processor(TranslateBooleansToStrings,FormatIntegers);
+
+//Does the same thing as calling TranslateBooleansToStrings
+//and FormatIntegers
+Processor.Execute(do); 
