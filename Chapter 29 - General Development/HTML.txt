@@ -1,0 +1,14 @@
+HTML
+
+
+(HTML Standard, n.d.)
+
+HTML is what the Internet is built using. The browser receives this from web servers and uses it to render what you see as a web page.
+
+(HTML Basic, n.d.)
+
+HTML Document below:
+
+<!DOCTYPE html> <html> <body> Hi </body> </html>
+
+The above is a very simple web page. You might notice it fits the requirements of XML with opening and closing elements. It supports attributes as well. HTML expects specific elements to display in a web browser. All web pages of any complexity will use this. Other technologies are used as well.

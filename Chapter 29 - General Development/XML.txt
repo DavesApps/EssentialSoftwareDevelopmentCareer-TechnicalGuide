@@ -1,0 +1,23 @@
+XML
+
+
+Extensible Markup Language (XML) is a type of generic language used for formatting textual format types of documents that can be used for a variety of purposes to store or transmit data. This was designed to be readable by people and computers, so it was possible to understand the organization and data.
+
+The benefits are that people can read it to understand it so that, in theory, it is easier for people, developers and others, to use. This is a common format used for the entire Internet and APIs.
+
+The downside is that it uses more data/space than a binary format to store or interpret, so it can take longer to process. Usually, it’s fast enough, though, that the readable format outweighs any additional processing time. That may not be the case for every scenario or usage. (Extensible Markup Language (XML) 1.0 (Fifth Edition), n.d.)
+
+A very simple xml document:
+
+<?xml version="1.0"?> <mydoc> </mydoc>
+
+There is the header which will have something like <?xml version””1.””>.
+
+This is followed by the open tag (Element), in this case <mydoc>, but that name can be anything. There should be a closing tag (Element) for the document </mydoc>. Notice the first line has a VERSION that is an attribute, and it has a value of““1.””.
+
+XML elements can be nested to allow you to create a hierarchy:
+
+<yourdoc> <Email From="me@me.com" To="you@you.com"> <Subject>Hi</Subject> </Email> </yourdoc>
+
+You can use different element and attribute names. There are variants of XML that define the elements and attributes you should use. You might have heard of Hypertext Markup Language (HTML).
+
