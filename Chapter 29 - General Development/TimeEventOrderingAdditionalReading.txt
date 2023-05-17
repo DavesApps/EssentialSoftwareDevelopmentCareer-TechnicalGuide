@@ -1,0 +1,14 @@
+Some Additional Reading on This Topic:
+
+
+https://www.inf.ed.ac.uk/teaching/courses/ds/slides1718/time2.pptx.pdf
+
+Sarkar, R. (n.d.). Distributed Systems Clocks, Ordering of Events. 30.
+
+https://www.ida.liu.se/~TDDD25/lectures/lect5.pdf
+
+Garg, V. K., & Mittal, N. (n.d.). Time and State in Distributed Systems. 9. https://www.cs.rice.edu/~druschel/comp413/lectures/algorithms.html
+
+COS-418, Fall 2016: Distributed Systems. (n.d.). Retrieved September 17, 2022, from https://www.cs.princeton.edu/courses/archive/fall16/cos418/ /and https://www.cs.princeton.edu/courses/archive/fall16/cos418/docs/L4-time.pptx
+
+http://lass.cs.umass.edu/~shenoy/courses/spring17/lectures/Lec13.pdf
