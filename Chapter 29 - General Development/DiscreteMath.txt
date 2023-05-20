@@ -1,0 +1,52 @@
+Imagine you have an if condition.
+
+bool A,B;
+
+If (A && B)
+
+Dothis();
+
+The logic table is:
+
+(Presume 0=false 1=True, &&=And, ||=OR)
+
+A B Output
+
+0 0 0
+
+0 1 0
+
+1 0 0
+
+1 1 1
+
+So it’s only true when both A and B are true.
+
+But let’s say you needed the opposite of this.
+
+”
+
+If !(A && B)
+
+Dothis();
+
+Notice the “!” symbol means NOT, which inverts the value returned. True would become false, and false would become true.
+
+A B Output
+
+0 0 1
+
+0 1 1
+
+1 0 1
+
+1 1 0
+
+Notice that it reversed our logic table, so not is only false when both A and B are true.
+
+So is there a simpler way to write that?
+
+!(A && B) = (A || B)
+
+So the NOT of A and B is the same as A or B. So the NOT of an AND condition converts it to an OR condition. And, of course, the inverse is true. A NOT of an OR condition would become an AND condition.
+
