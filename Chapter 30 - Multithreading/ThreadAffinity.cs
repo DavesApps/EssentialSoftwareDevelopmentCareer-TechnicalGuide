@@ -8,7 +8,9 @@ BeginThreadAffinity, EndThreadAffinity
      public void PerformMyTask()
       { 
         // Code that does not have thread affinity goes here.
-         Thread.BeginThreadAffinity(); // Code that has a thread affinity goes here. 
-         Thread.EndThreadAffinity(); // And More code that doesn’t have a thread affinity. 
+         Thread.BeginThreadAffinity(); 
+         // Code that has a thread affinity goes here. 
+         Thread.EndThreadAffinity(); 
+         // And More code that doesn’t have a thread affinity. 
       }
   }
