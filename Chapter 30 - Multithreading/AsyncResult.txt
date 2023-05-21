@@ -1,0 +1,9 @@
+// Initiate the asynchronous call.
+
+IAsyncResult result = caller.BeginInvoke(4000, out threadId, null, null);
+
+// Wait for the WaitHandle to become signaled.
+
+result.AsyncWaitHandle.WaitOne();
+
+// Perform additional processing here. // Call EndInvoke to retrieve the results. string returnValue = caller.EndInvoke(out threadId, result); // Close the wait handle. result.AsyncWaitHandle.Close();
