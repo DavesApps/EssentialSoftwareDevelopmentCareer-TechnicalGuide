@@ -1,0 +1,8 @@
+volatile bool _done=false;
+ Thread 1: 
+ //Start thread 2 
+ //… Some work 
+ _done=true;
+ 
+  Thread2: 
+  While (!_done) { //… }
