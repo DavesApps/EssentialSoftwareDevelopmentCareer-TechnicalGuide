@@ -1,0 +1,3 @@
+Example.
+
+Parallel.Invoke(() => DoSomeWork1(), () => DoSomeOtherWork2());
