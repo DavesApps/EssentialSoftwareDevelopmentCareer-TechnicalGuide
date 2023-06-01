@@ -1,0 +1,206 @@
+CHAPTER 35.
+.
+Appendix.
+.
+About Ruby. n.d. . Retrieved September 26, 2022, from
+ 
+Acquire and Release Semantics—Windows Drivers | Microsoft Learn. n.d. . Retrieved September 23, 2022, from https://learn.microsoft.com/en-us/windows-hardware/drivers/kernel/acquire-and-release-semantics?redirectedfrom=MSDN
+. 
+Agile—Why Do We Use Story Points Instead of Man Days When Estimating User Stories? - Software Engineering Stack Exchange. n.d. . Retrieved September 17, 2022, from https://softwareengineering.stackexchange.com/questions/182057/why-do-we-use-story-points-instead-of-man-days-when-estimating-user-stories
+. 
+Algorithm—Token Bucket vs Fixed Window Traffic Burst —Stack Overflow. n.d. . Retrieved September 17, 2022, from https://stackoverflow.com/questions/65868274/token-bucket-vs-fixed-window-traffic-burst
+. 
+Announcing Rate Limiting for .NET—.NET Blog. n.d. . Retrieved September 17, 2022, from https://devblogs.microsoft.com/dotnet/announcing-rate-limiting-for-dotnet
+. 
+Apple Reveals Windows 10 is Four Times More Popular than the Mac—The Verge. n.d. . Retrieved September 19, 2022, from https://www.theverge.com/2017/4/4/15176766/apple-microsoft-windows-10-vs-mac-users-figures-stats
+. 
+Beck, K., Beedle, M., van Bennekum, A., Cockburn, A., Cunningham, W., Fowler, M., Grenning, J., Highsmith, J., Hunt, A., Jeffries, R., Kern, J., Marick, B., Martin, R. C., Mellor, S., Schwaber, K., Sutherland, J., & Thomas, D. 2001 . Manifesto for Agile Software Development. http://agilemanifesto.org/
+. 
+Bird, C., Nagappan, N., Murphy, B., Gall, H., & Devanbu, P. n.d. . An Analysis of the Effect of Code Ownership on Software Quality across Windows, Eclipse, and Firefox. 14.
+. 
+C# Coding Conventions | Microsoft Learn. n.d. . Retrieved September 17, 2022, from https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/coding-style/coding-conventions
+ 
+C#—Double.Epsilon for Equality, Greater than, Less than, Less than or Equal to, Greater than or Equal to—Stack Overflow. n.d. . Retrieved September 17, 2022, from https://stackoverflow.com/questions/2411392/double-epsilon-for-equality-greater-than-less-than-less-than-or-equal-to-gre.
+. 
+Chistory. n.d. . Retrieved September 26, 2022, from http://www.belllabs.com/usr/dmr/www/chist.html
+. 
+Codd, E. F. 1970 . A Relational Model of Data for Large Shared Data Banks. https://web.archive.org/web/20070612235326/ http://www.acm.org/classics/nov95/toc.html
+. 
+Collation and Unicode Support—SQL Server | Microsoft Learn. n.d. . Retrieved September 17, 2022, from https://learn.microsoft.com/en-us/sql/relational-databases/collations/collation-and-unicode-support?view=sql-server-ver16
+. 
+Common Patterns for Poorly-Behaved Multithreaded Applications—Visual Studio 2015 | Microsoft Learn. n.d. . Retrieved September 17, 2022, from https://learn.microsoft.com/en-us/previous-versions/visualstudio/visual-studio-2015/profiling/common-patterns-for-poorly-behaved-multithreaded-applications?view=vs-2015&redirectedfrom=MSDN
+. 
+Compiler Basics, Part 2: Building the Scanner—Visual Studio Magazine. n.d. . Retrieved September 17, 2022, from https://visualstudiomagazine.com/articles/2014/06/01/compiler-basics-part-2.aspx
+. 
+Concurrent Affairs: Build a Richer Thread Synchronization Lock | Microsoft Learn. n.d. . Retrieved September 23, 2022, from https://learn.microsoft.com/en-us/archive/msdn-magazine/2006/march/concurrent-affairs-build-a-richer-thread-synchronization-lock
+. 
+COS-418, Fall 2016: Distributed Systems. n.d. . Retrieved September 17, 2022, from https://www.cs.princeton.edu/courses/archive/fall16/cos418/
+.
+ 
+-C#—The C# Memory Model in Theory and Practice | Microsoft Learn. n.d.-a . Retrieved September 17, 2022, from https://learn.microsoft.com/en-us/archive/msdn-magazine/2012/december/csharp-the-csharp-memory-model-in-theory-and-practice
+. 
+C#—The C# Memory Model in Theory and Practice | Microsoft Learn. n.d.-b . Retrieved September 17, 2022, from https://learn.microsoft.com/en-us/archive/msdn-magazine/2012/december/csharp-the-csharp-memory-model-in-theory-and-practice
+. 
+C#—The C# Memory Model in Theory and Practice, Part 2 | Microsoft Learn. n.d. . Retrieved September 17, 2022, from https://learn.microsoft.com/en-us/archive/msdn-magazine/2013/january/csharp-the-csharp-memory-model-in-theory-and-practice-part-2
+. 
+-Desktop Operating System Market Share Worldwide | Statcounter Global Stats. n.d. . Retrieved September 17, 2022, from https://gs.statcounter.com/os-market-share/desktop/worldwide
+. 
+Dhar, V. 2013, December . Data Science and Prediction | December 2013 | Communications of the ACM. https://cacm.acm.org/magazines/2013/12/169933-data-science-and-prediction/fulltext
+. 
+ECMA-335—Ecma International. n.d. . Retrieved February 6, 2023, from https://www.ecma-international.org/publications-and-standards/standards/ecma-335
+. 
+Example 15 Measuring DPC/ISR Time—Windows Drivers | Microsoft Learn. n.d. . Retrieved September 22, 2022, from https://learn.microsoft.com/en-us/windows-hardware/drivers/devtest/example-15--measuring-dpc-isr-time
+. 
+-Explained: Neural Networks | MIT News | Massachusetts Institute of Technology. n.d. . Retrieved September 17, 2022, from https://news.mit.edu/2017/explained-neural-networks-deep-learning-0414
+. 
+Extensible Markup Language XML 1.0 Fifth Edition . n.d. . Retrieved September 26, 2022, from https://www.w3.org/TR/REC-xml
+. 
+Fearless Concurrency—The Rust Programming Language. n.d. . Retrieved September 26, 2022, from https://doc.rust-lang.org/book/ch16-00-concurrency.html
+. 
+File:NIST Enterprise Architecture Model.jpg—Wikimedia Commons. n.d. . Retrieved September 17, 2022, from https://commons.wikimedia.org/wiki/File:NIST_Enterprise_Architecture_Model.jpg
+. 
+Filesystems. n.d. . Retrieved September 26, 2022, from https://tldp.org/LDP/sag/html/filesystems.html
+. 
+Gamma, E. Ed. . 1995 . Design patterns: Elements of reusable object-oriented software. Addison-Wesley.
+. 
+Garbage Collection: Automatic Memory Management in the Microsoft .NET Framework. n.d. . Retrieved September 17, 2022, from https://web.archive.org/web/20130310021543/http://msdn.microsoft.com/en-us/magazine/bb985010.aspx
+. 
+Garg, V. K., & Mittal, N. n.d. . Time and State in Distributed Systems. 9.
+. 
+http://users.ece.utexas.edu/~garg/dist/wiley-encyc.pdf Access time originally was 9/17/2022 9pm
+. 
+Genscape Inc. 2003, August 15 . What Caused the Power Blackout to Spread So Widely and So Fast? Genscape’s Unique Data Will Help. https://web.archive.org/web/20160518020430/http://www.prnewswire.com/news-releases/what-caused-the-power-blackout-to-spread-so-widely-and-so-fast-genscapes-unique-data-will-help-answer-that-question-70952022.html
+. 
+Global Server Share by OS 2018–2019 | Statista. n.d. . Retrieved September 17, 2022, from
+. 
+Goldin, Maxim. n.d. . MSDN Magazine: Thread Performance—Resource Contention Concurrency Profiling in Visual Studio 2010 | Microsoft Learn. Retrieved September 23, 2022, from https://learn.microsoft.com/en-us/archive/msdn-magazine/2010/june/msdn-magazine-thread-performance-resource-contention-concurrency-profiling-in-visual-studio-2010
+. 
+Google Testing Blog: Code Coverage Best Practices. 2020, August 7 . https://testing.googleblog.com/2020/08/code-coverage-best-practices.html
+.
+Historical Yearly Trends in the Usage Statistics of Server-Side Programming Languages for Websites w3techs.ashx 1504×555 . n.d. . Retrieved September 17, 2022, from https://visualstudiomagazine.com/articles/2021/09/14/~/media/ECG/visualstudiomagazine/Images/2021/09/w3techs.ashx
+. 
+How Bitcoin Mining Really Works. n.d. . Retrieved September 17, 2022, from https://www.freecodecamp.org/news/how-bitcoin-mining-really-works-38563ec38c87
+. 
+How to Configure the Number of Layers and Nodes in a Neural Network. n.d. . Retrieved September 17, 2022, from https://machinelearningmastery.com/how-to-configure-the-number-of-layers-and-nodes-in-a-neural-network
+. 
+How to Write Your Own Compiler, Part 1: Mapping Source Files—Visual Studio Magazine. n.d. . Retrieved September 17, 2022, from https://visualstudiomagazine.com/articles/2014/05/01/how-to-write-your-own-compiler-part-1.aspx?m=1
+. 
+HTML Basic. n.d. . Retrieved September 17, 2022, from https://www.w3schools.com/html/html_basic.asp
+. 
+HTML Standard. n.d. . Retrieved September 26, 2022, from https://html.spec.whatwg.org/multipage/#toc-dom
+.
+Hull, R., & Peter, Dr. L. J. n.d. . The Peter Principle: Why Things Always Go Wrong: As Featured on Radio 4.
+. 
+Hunt, C. n.d. . 1. Overview of TCP/IP—TCP/IP Network Administration, 3rd Edition [Book]. Retrieved September 26, 2022, from https://www.oreilly.com/library/view/tcpip-network-administration/0596002971/ch01.html
+. 
+Intel® 64 and IA-32 Architectures Software Developer Manuals. n.d. . Retrieved September 17, 2022, from https://www.intel.com/content/www/us/en/developer/articles/technical/intel-sdm.html
+. 
+Job Search | Indeed. n.d. . Retrieved September 17, 2022, from indeed.com
+. 
+Kikama Jr, K. 2010 . Securing the Rapid Application Development RAD Methodology. 55.
+. 
+http://cs.lewisu.edu/mathcs/msis/projects/msis595_KividiKikama.pdf
+. 
+-Krasner, G. E., & Pope, S. T. 1988 . A Description of the Model-View-Controller User Interface Paradigm in the Smalltalk-80 System. https://web.archive.org/web/20100921030808/http://www.itu.dk/courses/VOP/E2005/VOP2005E/8_mvc_krasner_and_pope.pdf
+. 
+Lachtar, N., Elkhail, A. A., Bacha, A., & Malik, H. n.d. . A Cross-Stack Approach Towards Defending Against Cryptojacking | IEEE Journals & Magazine | IEEE Xplore. Retrieved September 26, 2022, from https://ieeexplore.ieee.org/document/9170774
+. 
+Linux vs. Windows Usage Statistics, September 2022. n.d. . Retrieved September 17, 2022, from https://w3techs.com/technologies/comparison/os-linux,os-windows
+. 
+Manifesto for Agile Software Development. n.d. . Retrieved September 17, 2022, from
+. 
+Beck, K., Beedle, M., van Bennekum, A., Cockburn, A., Cunningham, W., Fowler, M., Grenning, J., Highsmith, J., Hunt, A., Jeffries, R., Kern, J., Marick, B., Martin, R. C., Mellor, S., Schwaber, K., Sutherland, J., & Thomas, D. 2001 .
+. 
+- Manifesto for Agile Software Development. 
+http://agilemanifesto.org/
+. 
+Martin, R. C. 2000 . Design Principles and Design Patterns.
+. 
+http://staff.cs.utu.fi/~jounsmed/doos_06/material/DesignPrinciplesAndPatterns.pdf
+. 
+Mobile Operating System Market Share Worldwide | Statcounter Global Stats. n.d. . Retrieved September 17, 2022, from https://gs.statcounter.com/os-market-share/mobile/worldwide
+.
+ 
+-NERC Steering Group. 2004, July 13 .
+. 
+Technical Analysis of the August 14, 2003, Blackout. https://web.archive.org/web/20120318081212/http://www.nerc.com/docs/docs/blackout/NERC_Final_Blackout_Report_07_13_04.pdf
+. 
+Norman, D. A. 1988 . The psychology of everyday things. Basic Books.
+.
+ 
+-Northeast Blackout of 2003.
+Wikipedia. n.d. . Retrieved September 22, 2022, from https://en.wikipedia.org/wiki/Northeast_blackout_of_2003
+. 
+One Big Fluke .
+Simplest Explanation of the Math behind Public Key Cryptography. n.d. . Retrieved September 17, 2022, from https://www.onebigfluke.com/2013/11/public-key-crypto-math-explained.html
+. 
+Ōno, T. 1988 . Toyota production system: Beyond large-scale production. Productivity Press.
+. 
+OSI Model. n.d. .
+Retrieved September 17, 2022, from https://www.imperva.com/learn/application-security/osi-model
+. 
+-Overview of Synchronization Primitives.
+Microsoft Learn. n.d. . Retrieved September 23, 2022, from https://learn.microsoft.com/en-us/dotnet/standard/threading/overview-of-synchronization-primitives
+. 
+Performance Considerations for Run-Time Technologies in the .NET Framework. n.d. . Retrieved September 17, 2022, from https://web.archive.org/web/20111105031300/http://msdn.microsoft.com/en-us/library/ms973838
+. 
+PHP vs. ASP.NET vs. Ruby Usage Statistics, September 2022. n.d. . Retrieved September 17, 2022, from https://w3techs.com/technologies/comparison/pl-aspnet,pl-php,pl-ruby
+. 
+-Primality Test.
+Wikipedia. n.d. . Retrieved September 17, 2022, from https://en.wikipedia.org/wiki/Primality_test
+. 
+Processes, Threads, and Jobs in the Windows Operating System | Microsoft Press Store. n.d. . Retrieved September 22, 2022, from https://www.microsoftpressstore.com/articles/article.aspx?p=2233328&seqNum=7
+. 
+Programs—Khoury College of Computer Sciences. n.d. . Retrieved September 17, 2022, from https://www.khoury.northeastern.edu/programs/#jump-0 
+. 
+Rate-Limiting Strategies and Techniques | Cloud Architecture Center | Google Cloud. n.d.-a . Retrieved September 17, 2022, from https://cloud.google.com/architecture/rate-limiting-strategies-techniques
+. 
+Rate-Limiting Strategies and Techniques | Cloud Architecture Center | Google Cloud. n.d.-b . Retrieved September 17, 2022, from https://cloud.google.com/architecture/rate-limiting-strategies-techniques#techniques-enforcing-rate-limits
+. 
+Ries, E. 2010, April 30 . The Five Whys for Start-Ups. https://hbr.org/2010/04/the-five-whys-for-startups
+. 
+Sarkar, R. n.d. . Distributed Systems Clocks, Ordering of Events.
+. 
+https://www.inf.ed.ac.uk/teaching/courses/ds/slides1718/time2.pptx.pdf
+. 
+Schwaber, K. 1990 . Ken Schwaber | Scrum.org. https://www.scrum.org/team/ken-schwaber
+. 
+-System.Threading Namespace.
+Microsoft Learn. n.d. . Retrieved September 23, 2022, from https://learn.microsoft.com/en-us/dotnet/api/system.threading?view=net-6.0
+. 
+The Absolute Minimum Every Software Developer Absolutely, Positively Must Know About Unicode and Character Sets No Excuses! —Joel on Software. n.d. . Retrieved September 17, 2022, from https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses
+. 
+The Fallacy of Premature Optimization. n.d. . Retrieved September 17, 2022, from https://ubiquity.acm.org/article.cfm?id=1513451
+. 
+-The World’s Second-Most Popular Desktop Operating System isn’t macOS Anymore | Ars Technica. n.d. . Retrieved September 19, 2022, from
+. 
+Thomas, D., & Hunt, A. 2019 . The pragmatic programmer, 20th anniversary edition: Journey to mastery Second edition . Addison-Wesley. Threading in C#—Part 4—Advanced Threading. n.d. . Retrieved September 17, 2022, from https://www.albahari.com/threading/part4.aspx
+. 
+-Threadsafe Events—CodeProject. n.d. . Retrieved September 17, 2022, from https://www.codeproject.com/Articles/37474/Threadsafe-Events
+. 
+TOGAF | The Open Group Website. n.d. . Retrieved September 26, 2022, from https://www.opengroup.org/togaf
+. 
+Tools And Techniques to Identify Concurrency Issues | Microsoft Learn. n.d. . Retrieved September 23, 2022, from https://learn.microsoft.com/en-us/archive/msdn-magazine/2008/june/tools-and-techniques-to-identify-concurrency-issues
+. 
+Traveling Salesman Problem | Solve the Traveling Salesman Problem. n.d. . Retrieved September 17, 2022, from https://www.popularmechanics.com/science/a30655520/scientists-solve-traveling-salesman-problem
+. 
+-Understanding Low-Lock Techniques in Multithreaded Apps | Microsoft Learn. n.d. . Retrieved September 17, 2022, from https://learn.microsoft.com/en-us/archive/msdn-magazine/2005/october/understanding-low-lock-techniques-in-multithreaded-apps#S10
+. 
+Uses for the Lex and Yacc Utilities—IBM Documentation. 2021, April 8 . https://www.ibm.com/docs/en/zos/2.4.0?topic=yacc-uses-lex-utilities
+. 
+var—C# reference | Microsoft Docs. n.d. . Retrieved September 15, 2022, from https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/var
+. 
+Volatile—C# Reference | Microsoft Learn. n.d. . Retrieved September 23, 2022, from https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/volatile
+. 
+What Are Neural Networks? | IBM. n.d. . Retrieved September 17, 2022, from https://www.ibm.com/cloud/learn/neural-networks
+. 
+-What Is a GPU? Graphics Processing Units Defined. n.d. . Retrieved September 27, 2022, from https://www.intel.com/content/www/us/en/products/docs/processors/what-is-a-gpu.html
+. 
+What Is Scrum? | Scrum.org. n.d. . Retrieved September 25, 2022, from https://www.scrum.org/resources/what-is-scrum
+. 
+-What Is the Difference between MVC and MVVM?—Stack Overflow. n.d. . Retrieved September 17, 2022, from https://stackoverflow.com/questions/667781/what-is-the-difference-between-mvc-and-mvvm
+. 
+https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/var
+. 
+ 
+
